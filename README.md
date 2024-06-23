@@ -1,4 +1,4 @@
-TASK 1: TITANIC SURVIVAL PREDICTION MODEL
+TASK 1: TITANIC CLASSIFICATION
 
 Hyperparameter Tuning: Use GridSearchCV or RandomizedSearchCV to optimize parameters like n_estimators, max_depth, and min_samples_split for the Random Forest classifier.
 
